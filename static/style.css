@@ -110,3 +110,4 @@ img.logo { width: 22px; height: 22px; object-fit: contain; }
 .site-footer { color: var(--muted); font-size: 0.85rem; padding: 8px 0 24px; text-align: center; }
 .site-footer p { margin: 4px 0; }
 .site-footer a { color: var(--accent); }
+
