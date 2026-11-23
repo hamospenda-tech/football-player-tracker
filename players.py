@@ -1,4 +1,4 @@
-"""Fetches players and teams from API-Football and turns them into simple, flat records.
+""""Fetches players and teams from API-Football and turns them into simple, flat records.
 
 API-Football's answers are big and deeply nested (player -> statistics -> games -> ...).
 This file picks out only what the page needs and returns a flat dictionary per player,
