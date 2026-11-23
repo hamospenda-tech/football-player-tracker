@@ -1,4 +1,4 @@
-"""Football Player Finder: a Flask web app to find, filter and compare football players.
+""""Football Player Finder: a Flask web app to find, filter and compare football players.
 
 Data comes from API-Football (https://www.api-football.com). The API key is read from
 the .env file on the server and is never sent to the browser.
