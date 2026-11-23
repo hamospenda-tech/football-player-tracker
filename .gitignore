@@ -10,8 +10,7 @@ venv/
 # Cached API responses (rebuilt automatically)
 cache/
 
-# Editor / OS / tool files
-.claude/
+# Editor / OS files
 .vscode/
 .idea/
 .DS_Store
