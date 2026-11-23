@@ -1,4 +1,4 @@
-"""Talks to the API-Football v3 API, with on-disk caching and friendly error handling.
+""""Talks to the API-Football v3 API, with on-disk caching and friendly error handling.
 
 Every successful API answer is saved in the cache/ folder for 24 hours, so repeated
 requests are instant and do not use up the free plan's 100 requests per day. If the
