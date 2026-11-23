@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Football Player Finder</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>⚽ Football Player Finder</h1>
+      <p class="tagline">Find, filter and compare players from Europe's top 5 leagues: for fantasy managers, scouts and fans.</p>
+    </div>
+  </header>
+
+  {# This is a Jinja template: Flask fills in the parts in curly braces (the league and
+     season lists, the server name) before sending the page. app.js then makes it interactive. #}
+  <main class="wrap">
+    <!-- Panel 1: WHICH players to load. Changing these asks the backend for new data. -->
+    <section class="panel" aria-labelledby="choose-heading">
+      <h2 id="choose-heading">1. Choose players</h2>
+      <div class="grid">
+        <label>League
+          <select id="league">
+            <!-- One option per league in the LEAGUES list in app.py -->
+            {% for league in leagues %}
+            <option value="{{ league.id }}">{{ league.name }} ({{ league.country }})</option>
+            {% endfor %}
+          </select>
+        </label>
+        <label>Season
+          <select id="season">
+            <!-- The API calls a season by its starting year: 2024 is shown as "2024/25" -->
+            {% for season in seasons %}
+            <option value="{{ season }}">{{ season }}/{{ (season + 1) % 100 }}</option>
+            {% endfor %}
+          </select>
+        </label>
+        <label>Team
+          <select id="team">
+            <!-- The teams are added by loadTeams() in app.js -->
+            <option value="">All: league top scorers &amp; assist providers</option>
+          </select>
+        </label>
+      </div>
+      <div class="search-row">
+        <label class="grow">Player name
+          <input id="name-filter" type="search" placeholder="e.g. Salah, Mbappe, Kane" autocomplete="off">
+        </label>
+        <button id="api-search" type="button">Search whole league</button>
+      </div>
+      <p class="hint">Typing a name filters the players below. "Search whole league" looks up any player in the league (at least 4 letters).</p>
+    </section>
+
+    <!-- Panel 2: narrow down and order the players already loaded. These run in the
+         browser only (filteredPlayers() and sortPlayers() in app.js): no API requests. -->
+    <section class="panel" aria-labelledby="filter-heading">
+      <h2 id="filter-heading">2. Filter &amp; sort</h2>
+      <div class="grid">
+        <label>Position
+          <select id="position"><option value="">All positions</option></select>
+        </label>
+        <label>Nationality
+          <select id="nationality"><option value="">All nationalities</option></select>
+        </label>
+        <label>Min age <input id="min-age" type="number" min="15" max="45" inputmode="numeric"></label>
+        <label>Max age <input id="max-age" type="number" min="15" max="45" inputmode="numeric"></label>
+        <label>Min goals <input id="min-goals" type="number" min="0" inputmode="numeric"></label>
+        <label>Min appearances <input id="min-apps" type="number" min="0" inputmode="numeric"></label>
+        <label>Sort by
+          <select id="sort-key">
+            <option value="goals">Goals</option>
+            <option value="assists">Assists</option>
+            <option value="rating">Rating</option>
+            <option value="appearances">Appearances</option>
+            <option value="minutes">Minutes played</option>
+            <option value="age">Age</option>
+            <option value="name">Name</option>
+          </select>
+        </label>
+        <label>Order
+          <select id="sort-dir">
+            <option value="desc">Highest first</option>
+            <option value="asc">Lowest first</option>
+          </select>
+        </label>
+      </div>
+      <button id="reset-filters" type="button" class="secondary">Reset filters</button>
+    </section>
+
+    <!-- Panel 3: the results table. Its rows are built by render() in app.js. -->
+    <section class="panel results" aria-labelledby="results-heading">
+      <div class="results-head">
+        <h2 id="results-heading">3. Players</h2>
+        <p><span id="source-label"></span> <span id="count" class="count"></span></p>
+      </div>
+      <!-- Green "Loading…" box and red error box, hidden until app.js needs them -->
+      <p id="status" class="status" role="status" hidden></p>
+      <p id="error" class="error" role="alert" hidden></p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <!-- data-sort names the player field each column sorts by when clicked -->
+            <tr>
+              <th data-sort="name">Player</th>
+              <th data-sort="team">Team</th>
+              <th data-sort="position">Position</th>
+              <th data-sort="age" class="num">Age</th>
+              <th data-sort="nationality">Nationality</th>
+              <th data-sort="appearances" class="num">Apps</th>
+              <th data-sort="minutes" class="num">Minutes</th>
+              <th data-sort="goals" class="num">Goals</th>
+              <th data-sort="assists" class="num">Assists</th>
+              <th data-sort="rating" class="num">Rating</th>
+              <th data-sort="yellow_cards" class="num">Cards</th>
+            </tr>
+          </thead>
+          <tbody id="player-rows"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Data from <a href="https://www.api-football.com" target="_blank" rel="noopener">API-Football</a> by API-SPORTS. Results are cached for 24 hours.</p>
+      <!-- The name of the web server that built this page (web-01 or web-02 when deployed).
+           Refreshing the page through the load balancer should switch between the two. -->
+      <p>Served by <strong>{{ server }}</strong></p>
+    </div>
+  </footer>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
