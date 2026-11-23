@@ -1,9 +1,5 @@
 // Football Player Finder: loads players from our Flask backend, then filters, searches
-// and sorts them in the browser (no extra API requests needed for filtering).
-//
-// The big idea: the backend is asked for data only when the LEAGUE, SEASON or TEAM
-// changes, or when you click "Search whole league". Every filter and sort after that
-// runs here in the browser on the list we already have, so it is instant and free.
+// and sorts them in the browser.
 "use strict";
 
 // "state" is everything the page remembers: the players currently loaded,
