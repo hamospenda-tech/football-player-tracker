@@ -1,0 +1,1278 @@
+{
+  "today": {
+    "date": "2026-11-24",
+    "totalEvents": 36,
+    "totalAISuggestions": 0,
+    "totalAILines": 0,
+    "totalManualLines": 36,
+    "aiPercentage": 0,
+    "averageReviewTime": 0,
+    "sessionCount": 0,
+    "toolBreakdown": {
+      "copilot": {
+        "tool": "copilot",
+        "suggestionCount": 0,
+        "acceptedCount": 0,
+        "rejectedCount": 0,
+        "linesGenerated": 0,
+        "averageReviewTime": 0
+      },
+      "cursor": {
+        "tool": "cursor",
+        "suggestionCount": 0,
+        "acceptedCount": 0,
+        "rejectedCount": 0,
+        "linesGenerated": 0,
+        "averageReviewTime": 0
+      },
+      "claude-code": {
+        "tool": "claude-code",
+        "suggestionCount": 0,
+        "acceptedCount": 0,
+        "rejectedCount": 0,
+        "linesGenerated": 0,
+        "averageReviewTime": 0
+      }
+    }
+  },
+  "yesterday": null,
+  "last7Days": [
+    {
+      "date": "2026-11-18",
+      "totalEvents": 0,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 0,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {
+        "copilot": {
+          "tool": "copilot",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        },
+        "cursor": {
+          "tool": "cursor",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        },
+        "claude-code": {
+          "tool": "claude-code",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        }
+      },
+      "reviewQualityScore": 0,
+      "unreviewedLines": 0,
+      "unreviewedPercentage": 0,
+      "agentSessionCount": 0
+    },
+    {
+      "date": "2026-11-19",
+      "totalEvents": 0,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 0,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {}
+    },
+    {
+      "date": "2026-11-20",
+      "totalEvents": 0,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 0,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {}
+    },
+    {
+      "date": "2026-11-21",
+      "totalEvents": 0,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 0,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {}
+    },
+    {
+      "date": "2026-11-22",
+      "totalEvents": 0,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 0,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {}
+    },
+    {
+      "date": "2026-11-23",
+      "totalEvents": 0,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 0,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {
+        "copilot": {
+          "tool": "copilot",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        },
+        "cursor": {
+          "tool": "cursor",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        },
+        "claude-code": {
+          "tool": "claude-code",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        }
+      },
+      "reviewQualityScore": 0,
+      "unreviewedLines": 0,
+      "unreviewedPercentage": 0,
+      "agentSessionCount": 0
+    },
+    {
+      "date": "2026-11-24",
+      "totalEvents": 36,
+      "totalAISuggestions": 0,
+      "totalAILines": 0,
+      "totalManualLines": 36,
+      "aiPercentage": 0,
+      "averageReviewTime": 0,
+      "sessionCount": 0,
+      "toolBreakdown": {
+        "copilot": {
+          "tool": "copilot",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        },
+        "cursor": {
+          "tool": "cursor",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        },
+        "claude-code": {
+          "tool": "claude-code",
+          "suggestionCount": 0,
+          "acceptedCount": 0,
+          "rejectedCount": 0,
+          "linesGenerated": 0,
+          "averageReviewTime": 0
+        }
+      },
+      "reviewQualityScore": 0,
+      "unreviewedLines": 0,
+      "unreviewedPercentage": 0,
+      "agentSessionCount": 0
+    }
+  ],
+  "trends": {
+    "aiPercentage": "stable",
+    "reviewTime": "stable"
+  },
+  "toolBreakdown": [
+    {
+      "tool": "copilot",
+      "suggestionCount": 0,
+      "acceptedCount": 0,
+      "rejectedCount": 0,
+      "linesGenerated": 0,
+      "averageReviewTime": 0
+    },
+    {
+      "tool": "cursor",
+      "suggestionCount": 0,
+      "acceptedCount": 0,
+      "rejectedCount": 0,
+      "linesGenerated": 0,
+      "averageReviewTime": 0
+    },
+    {
+      "tool": "claude-code",
+      "suggestionCount": 0,
+      "acceptedCount": 0,
+      "rejectedCount": 0,
+      "linesGenerated": 0,
+      "averageReviewTime": 0
+    }
+  ],
+  "codingModes": {
+    "agent": {
+      "lines": 0,
+      "events": 0,
+      "reviewedFiles": 0,
+      "totalFiles": 0,
+      "avgReviewScore": 0,
+      "percentage": 0
+    },
+    "inline": {
+      "lines": 0,
+      "events": 0,
+      "acceptances": 0,
+      "quickAcceptances": 0,
+      "percentage": 0
+    },
+    "chatPaste": {
+      "lines": 0,
+      "events": 0,
+      "avgReviewScore": 0,
+      "percentage": 0
+    },
+    "totalLines": 0
+  },
+  "threshold": {
+    "level": "junior",
+    "blindApprovalTime": 5000,
+    "maxAIPercentage": 40,
+    "minReviewTime": 5000,
+    "streakThreshold": 3
+  },
+  "config": {
+    "experienceLevel": "junior",
+    "blindApprovalThreshold": 2000,
+    "alertFrequency": "medium",
+    "enableGamification": false,
+    "anonymizePaths": false,
+    "trackedTools": {
+      "copilot": true,
+      "cursor": true,
+      "claudeCode": true
+    },
+    "excludedGlobs": [],
+    "onboardingCompleted": false
+  },
+  "snoozeState": {
+    "snoozed": false
+  },
+  "streakDays": 1,
+  "unreviewedFiles": [],
+  "terminalReviewedFiles": [],
+  "agentSessions": [],
+  "workspace": {
+    "name": "web-infra-web-debugging-lab-1",
+    "path": "c:\\Users\\Hemenseter\\web-infra-web-debugging-lab-1",
+    "isMultiRoot": false
+  },
+  "coreMetrics": {
+    "authorship": {
+      "aiPercentage": 0,
+      "manualPercentage": 100,
+      "aiLines": 0,
+      "manualLines": 36,
+      "status": "good",
+      "target": 40
+    },
+    "ownership": {
+      "score": 0,
+      "category": "none",
+      "unreviewedPercentage": 0,
+      "unreviewedLines": 0,
+      "filesNeedingReview": 0
+    },
+    "skillHealth": {
+      "status": "needs-attention",
+      "score": 63,
+      "aiBalanceScore": 100,
+      "reviewQualityScore": 50,
+      "consistencyScore": 14,
+      "trend": "declining",
+      "daysWithActivity": 1,
+      "issues": [
+        "Low activity (1/7 days - code more regularly)"
+      ],
+      "recommendations": [
+        "Code at least 3-4 days per week to maintain consistency"
+      ],
+      "extremeAIDays": 0,
+      "variance": 0
+    }
+  },
+  "assignment": {
+    "assignment": {
+      "id": "assignment-1795521813816-ggixmel",
+      "name": "Summative - Playing Around With API's",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-25",
+      "repoUrl": "https://github.com/hamospenda-tech/football-player-tracker",
+      "policy": {
+        "maxAuthorshipPercentage": 20,
+        "minOwnershipScore": 100,
+        "exemptFileGlobs": [
+          "**/README*",
+          "**/*.md",
+          "**/package.json",
+          "**/package-lock.json",
+          "**/npm-shrinkwrap.json",
+          "**/yarn.lock",
+          "**/pnpm-lock.yaml",
+          "**/poetry.lock",
+          "**/Pipfile.lock",
+          "**/Gemfile.lock",
+          "**/Cargo.lock",
+          "**/composer.lock",
+          "**/go.sum",
+          "**/.gitignore",
+          "**/LICENSE*",
+          "**/tsconfig.json",
+          "**/.eslintrc*",
+          "**/.prettierrc*",
+          "**/node_modules/**",
+          "**/bower_components/**",
+          "**/.npm/**",
+          "**/venv/**",
+          "**/.venv/**",
+          "**/env/**",
+          "**/__pycache__/**",
+          "**/.tox/**",
+          "**/.mypy_cache/**",
+          "**/.pytest_cache/**",
+          "**/.ruff_cache/**",
+          "**/site-packages/**",
+          "**/.git/**",
+          "**/.hg/**",
+          "**/.svn/**",
+          "**/dist/**",
+          "**/build/**",
+          "**/out/**",
+          "**/coverage/**",
+          "**/.nyc_output/**",
+          "**/.next/**",
+          "**/.nuxt/**",
+          "**/target/**",
+          "**/vendor/**",
+          "**/.idea/**",
+          "**/.vs/**",
+          "**/*.pyc",
+          "**/*.pyo",
+          "**/*.min.js",
+          "**/*.bundle.js",
+          "**/*.map",
+          "**/package-lock.json",
+          "**/npm-shrinkwrap.json",
+          "**/yarn.lock",
+          "**/pnpm-lock.yaml",
+          "**/poetry.lock",
+          "**/Pipfile.lock",
+          "**/Gemfile.lock",
+          "**/Cargo.lock",
+          "**/composer.lock",
+          "**/go.sum"
+        ],
+        "prohibitedMethods": [
+          "external-file-change",
+          "git-commit-marker"
+        ],
+        "permittedMethods": [
+          "inline-completion-api"
+        ],
+        "flaggedMethods": [
+          "large-paste",
+          "change-velocity"
+        ],
+        "minLargePasteReviewTimeMs": 5000,
+        "maxTrackingGapSeconds": 1800
+      },
+      "isActive": true,
+      "createdAt": 1795521813816,
+      "updatedAt": 1795521814134
+    },
+    "metrics": {
+      "assignmentId": "assignment-1795521813816-ggixmel",
+      "authorship": {
+        "totalLines": 36,
+        "manualLines": 36,
+        "permittedAILines": 0,
+        "prohibitedAILines": 0,
+        "flaggedAILines": 0,
+        "authorshipPercentage": 0,
+        "prohibitedPercentage": 0
+      },
+      "ownership": {
+        "score": 0,
+        "filesReviewed": 0,
+        "filesUnreviewed": 0,
+        "unreviewedLines": 0,
+        "averageReviewTimeMs": 0
+      },
+      "violations": [
+        {
+          "type": "tracking-gap",
+          "severity": "low",
+          "message": "No tracking activity for 223648 seconds during assignment window",
+          "details": {
+            "startTime": 1795298400000,
+            "endTime": 1795522048036,
+            "durationSeconds": 223648
+          },
+          "firstDetectedAt": 1795522048036,
+          "lastDetectedAt": 1795522048036,
+          "count": 1
+        }
+      ],
+      "rawEvents": [
+        {
+          "id": 1,
+          "timestamp": 1795522048036,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 12,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 6833
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 2,
+          "timestamp": 1795522129729,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 210,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 81216
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 3,
+          "timestamp": 1795522307172,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 446,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 177312
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 4,
+          "timestamp": 1795522359822,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 133,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 52130
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 5,
+          "timestamp": 1795522377915,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 45,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 18042
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 6,
+          "timestamp": 1795522462143,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 214,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 83864
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 7,
+          "timestamp": 1795522471721,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 21,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 9511
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 8,
+          "timestamp": 1795522548560,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 198,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 76740
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 9,
+          "timestamp": 1795522686668,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 346,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 137542
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 10,
+          "timestamp": 1795522733021,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 117,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 46004
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 11,
+          "timestamp": 1795522814196,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 210,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 79904
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 12,
+          "timestamp": 1795522901192,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 212,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 86603
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 13,
+          "timestamp": 1795523053013,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 371,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 147556
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 14,
+          "timestamp": 1795523077393,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 52,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 20944
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 15,
+          "timestamp": 1795523157921,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 203,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 80067
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 16,
+          "timestamp": 1795523227597,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 162,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 65809
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 17,
+          "timestamp": 1795523287734,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 136,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 56219
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 18,
+          "timestamp": 1795523306916,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 45,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 18865
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 19,
+          "timestamp": 1795523340170,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 65,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 28989
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 20,
+          "timestamp": 1795523394930,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 139,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 54582
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 21,
+          "timestamp": 1795523439965,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 107,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 44779
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 22,
+          "timestamp": 1795523460842,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 51,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 20714
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 23,
+          "timestamp": 1795523527135,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 155,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 62785
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 24,
+          "timestamp": 1795523657413,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 328,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 129995
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 25,
+          "timestamp": 1795523730635,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 179,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 68890
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 26,
+          "timestamp": 1795523797815,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 164,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 66838
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 27,
+          "timestamp": 1795523945415,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 370,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 144674
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 28,
+          "timestamp": 1795524012032,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 164,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 63290
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 29,
+          "timestamp": 1795524405218,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 2,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 2358
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 30,
+          "timestamp": 1795524422247,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 2012
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 31,
+          "timestamp": 1795524513695,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 2006
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 32,
+          "timestamp": 1795524542241,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 6126
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 33,
+          "timestamp": 1795524570956,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 2011
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 34,
+          "timestamp": 1795524678580,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 2009
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 35,
+          "timestamp": 1795524689990,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 2016
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        },
+        {
+          "id": 36,
+          "timestamp": 1795524913028,
+          "tool": "claude-code",
+          "eventType": "code-generated",
+          "linesOfCode": 1,
+          "charactersCount": 1,
+          "filePath": "c:/Users/Hemenseter/football-player-tracker/app.py",
+          "language": "python",
+          "metadata": {
+            "manual": true,
+            "source": "manual-typing",
+            "duration": 3530
+          },
+          "reviewQuality": null,
+          "isReviewed": false,
+          "isAgentMode": false,
+          "source": "manual",
+          "detectionMethod": "manual-typing",
+          "confidence": "high",
+          "assignmentId": "assignment-1795521813816-ggixmel"
+        }
+      ],
+      "fileReviews": [],
+      "trackingGaps": [
+        {
+          "startTime": 1795298400000,
+          "endTime": 1795522048036,
+          "durationSeconds": 223648
+        }
+      ]
+    }
+  },
+  "fileTree": {
+    "name": "root",
+    "path": "",
+    "type": "directory",
+    "children": [],
+    "stats": {
+      "filesChanged": 0,
+      "filesReviewed": 0,
+      "linesAdded": 0,
+      "linesRemoved": 0
+    },
+    "isExpanded": true,
+    "depth": 0
+  },
+  "fileTreeStats": {
+    "totalFiles": 0,
+    "totalAdditions": 0,
+    "totalDeletions": 0,
+    "totalChanges": 0,
+    "filesAdded": 0,
+    "filesModified": 0,
+    "filesDeleted": 0,
+    "reviewedFiles": 0,
+    "unreviewedFiles": 0,
+    "reviewProgress": 0
+  }
+}
