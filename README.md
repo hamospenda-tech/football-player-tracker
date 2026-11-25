@@ -6,7 +6,7 @@ The player data comes from the API-Football API (https://www.api-football.com).
 
 Live app (through the load balancer): http://3.9.175.112
 
-Demo video: add your video link here
+Demo video: https://www.veed.io/view/3a356f67-6d28-4f6d-a6c7-b9b609ab2773?source=editor&panel=share
 
 
 ## What the app can do
